@@ -38,8 +38,8 @@
 
 | Курсы                                                           | Дата              | Ссылка                                                                                                               |
 | ----------------------------------------------------------------| :---------------: | -------------------------------------------------------------------------------------------------------------------- |
-| netology.ru/Старт в программировании                            | 02/2022 - 03/2022 | [![Click Badge](https://img.shields.io/badge/Click-red?style=flat&lColor=white)](https://vk.com/nva2810) |
-| stepik.org/Основы программирования на C. Задачи.                | 02/2022 - 03/2022 | [![Click Badge](https://img.shields.io/badge/-Click-red?style=flat&logo=VK&logoColor=white)](https://vk.com/nva2810) |
+| Оcновы программирования (GeekBrains)                           | 2017 | [![Click Badge](https://img.shields.io/badge/Click-red?style=flat&lColor=white)](https://gb.ru/certificates/179463) |
+| Python Core (sololearn)               | 02/2022 - 03/2022 | [![Click Badge](https://img.shields.io/badge/-Click-red?style=flat&logo=VK&logoColor=white)](https://vk.com/nva2810) |
 | netology.ru/Основы верстки сайта                                | 02/2022 - 03/2022 | [![Click Badge](https://img.shields.io/badge/-Click-red?style=flat&logo=VK&logoColor=white)](https://vk.com/nva2810) |
 | netology.ru/Первые шаги в JavaScript: создаём сайт и приложение | 02/2022 - 03/2022 | [![Click Badge](https://img.shields.io/badge/-Click-red?style=flat&logo=VK&logoColor=white)](https://vk.com/nva2810) |
 | stepik.org/Веб-разработка для начинающих: HTML и CSS            | 02/2022 - 03/2022 | [![Click Badge](https://img.shields.io/badge/-Click-red?style=flat&logo=VK&logoColor=white)](https://vk.com/nva2810) |
