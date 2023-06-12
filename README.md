@@ -40,7 +40,6 @@
 | ----------------------------------------------------------------| :---------------: | -------------------------------------------------------------------------------------------------------------------- |
 | Оcновы программирования (GeekBrains) | 2017 | [![Click Badge](https://img.shields.io/badge/Click-red?style=flat&lColor=white)](https://gb.ru/certificates/179463) |
 | Python Core (Sololearn) | 2020 | [![Click Badge](https://img.shields.io/badge/Click-red?style=flat&lColor=white)](https://www.sololearn.com/Certificate/CT-AEJ0NI2L/png) |
-| Английский язык на уровне A2 (Busuu) | 2020 | [![Click Badge](https://img.shields.io/badge/Click-red?style=flat&lColor=white)](https://api.busuu.com/anon/certificates/1a246512ce5a787a9f53f750a5ca7cc0) |
 | С++ (Sololearn) | 2020 | [![Click Badge](https://img.shields.io/badge/Click-red?style=flat&lColor=white)](https://www.sololearn.com/Certificate/CT-BN4YEACH/jpg) |
 | Programming for Everybody (Getting Started with Python) (Coursera) | 2021 | [![Click Badge](https://img.shields.io/badge/Click-red?style=flat&lColor=white)](https://www.coursera.org/account/accomplishments/verify/7GNDEWG98VJX?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course) |
 | Python Data Structures (Coursera) | 2021 | [![Click Badge](https://img.shields.io/badge/Click-red?style=flat&lColor=white)](https://www.coursera.org/account/accomplishments/verify/EK6GQ3DSR8ZR?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course) |
@@ -49,6 +48,7 @@
 | Python (Mimo) | 2022 | [![Click Badge](https://img.shields.io/badge/Click-red?style=flat&lColor=white)](https://disk.yandex.ru/i/Bq-J7jEj_NVD5A) |
 | Junior QA / Инженер по тестированию ПО: начальный уровень (Stepik) | 2022 | [![Click Badge](https://img.shields.io/badge/Click-red?style=flat&lColor=white)](https://stepik.org/cert/1749745) |
 | Upper-Intermediate English (Simpler) | 2023 | [![Click Badge](https://img.shields.io/badge/Click-red?style=flat&lColor=white)](https://simpler.link/c/2aWGG) |
+| Английский язык на уровне B1 (Busuu) | 2023 | [![Click Badge](https://img.shields.io/badge/Click-red?style=flat&lColor=white)](https://api.busuu.com/anon/certificates/b135324029086a5893002b529075a346?lang=ru) |
 
 ## :fire: GitHub статистика:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nva2810&theme=onedark-duo&hide_border=true&locale=ru&mode=weekly)](https://git.io/streak-stats)
